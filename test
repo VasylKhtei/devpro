@@ -1,5 +1,3 @@
-mkdir 1
-mkdir 2
-mkdir 3
+tar -cvf test.tar /var/lib/jenkins/config.html /var/lib/jenkins/queue.xml
 
  
