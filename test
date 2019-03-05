@@ -1,3 +1,0 @@
-tar -cvf test.tar /var/lib/jenkins/config.html /var/lib/jenkins/queue.xml
-
- 
